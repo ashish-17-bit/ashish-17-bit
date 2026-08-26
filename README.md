@@ -8,7 +8,8 @@
 
 <table>
 <tr>
-<td width="35%" align="center"><img src="https://github.com/ashish-17-bit.png" width="180" alt="Ashish">Ashish Chaudhari
+<td width="35%" align="center"><img src="https://github.com/ashish-17-bit.png" width="180 "
+                                 alt="Ashish">Ashish Chaudhari
 
 🐍 Python
 📊 Data Science
