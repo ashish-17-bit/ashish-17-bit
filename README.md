@@ -1,6 +1,6 @@
 # Ashish-Chaudhari-
 <p align="center">
-  <img src="./spiderman-banner.jpg" width="100%">
+  <img src="./1000066727.jpg" width="100%">
 </p>
 # 🕷️ Welcome to My Spider-Verse
 
