@@ -66,7 +66,7 @@ Practice • Curiosity • Consistency • Persistence
 ## ⚠️ CAUTION
 
 <p align="center">
-  <img src="./2dac0dc144bfe5166f42072eeb7c3172.jpg" width="500">
+  <img src="./2dac0dc144bfe5166f42072eeb7c3172.jpg" width="720">
 </p>
 
 > **Code is never finished. It only gets better.**
