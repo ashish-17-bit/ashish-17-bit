@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./spiderman.jpg" width="100%" alt="Spider-Man Banner">
+  <img src="./spiderman-banner.jpg.jpg" width="100%" alt="Spider-Man Banner">
 </p><h1 align="center">🕷️ Welcome to My Spider-Verse</h1><p align="center">
   <b>💻 Python Developer • 📊 Aspiring Data Scientist • 🕸️ Lifelong Learner</b>
 </p>---
