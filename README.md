@@ -61,7 +61,7 @@ I enjoy turning ideas into projects and exploring how data can be used to solve 
 ## ⚠️ CAUTION
 
 <p align="center">
-  <img src="./2dac0dc144bfe5166f42072eeb7c3172.jpg" width="720">
+  <img src="./f23f141929fc102a019e4280e584387d.jpg" width="720">
 </p>
 
 > **Code is never finished. It only gets better.**
