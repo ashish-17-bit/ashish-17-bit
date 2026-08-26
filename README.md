@@ -63,6 +63,19 @@ Everything you see here is built with:
 Practice • Curiosity • Consistency • Persistence
 
 🕷️ Every bug is just another villain to defeat.
+## ⚠️ CAUTION
+
+<p align="center">
+  <img src="./caution.gif" width="500">
+</p>
+
+> **Code is never finished. It only gets better.**
+
+Everything you see here is built with:
+
+**Practice • Curiosity • Consistency • Persistence**
+
+🕷️ *Every bug is just another villain to defeat.*
 
 ---
 
