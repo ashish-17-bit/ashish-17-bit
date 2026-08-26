@@ -93,6 +93,7 @@ Learn → Build → Break → Debug → Improve → Repeat
 🕷️ With great code comes great responsibility.
 
 ---
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 <p align="center">🕸️ Thanks for visiting my Spider-Verse!
 
